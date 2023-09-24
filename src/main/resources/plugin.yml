@@ -1,0 +1,7 @@
+name: AuraAPI
+version: '0.1.0'
+main: net.kore.aura.Aura
+api-version: '1.20'
+authors:
+  - 'Kore'
+  - 'Nova'
